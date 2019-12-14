@@ -1,0 +1,5 @@
+jmsapp\modelo\Cliente.class
+jmsapp\modelo\Produto.class
+jmsapp\jms\ConsumerJms.class
+jmsapp\ejb\ProdutoEjb.class
+jmsapp\ejb\CarrinhoEjb.class

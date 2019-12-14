@@ -1,0 +1,5 @@
+jmsapp\controller\ProdutorJms.class
+jmsapp\service\ClienteService.class
+jmsapp\controller\ClienteServlet.class
+jmsapp\controller\CarrinhoServlet.class
+jmsapp\controller\ProdutoSerlet.class
